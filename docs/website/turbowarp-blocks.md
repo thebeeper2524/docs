@@ -14,7 +14,7 @@ If you don't use any TurboWarp-exclusive blocks, then there should be no issue w
 
 ## last key pressed {#last-key-pressed}
 
-![last key pressed](./assets/last-key-pressed.png)
+![last key pressed](./assets/how-to-use-last-key-pressed.png)
 
 It tells you the last key that was pressed. It's intended to be used something like this:
 
